@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\FA\fundamentos\fundamentos\bin\Debug\fundamentos.exe.config
+C:\Users\UPN\Desktop\FA\fundamentos\fundamentos\bin\Debug\fundamentos.exe
+C:\Users\UPN\Desktop\FA\fundamentos\fundamentos\bin\Debug\fundamentos.pdb
+C:\Users\UPN\Desktop\FA\fundamentos\fundamentos\obj\Debug\fundamentos.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA\fundamentos\fundamentos\obj\Debug\fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA\fundamentos\fundamentos\obj\Debug\fundamentos.exe
+C:\Users\UPN\Desktop\FA\fundamentos\fundamentos\obj\Debug\fundamentos.pdb
+C:\Users\UPN\Desktop\FA\fundamentos\fundamentos\obj\Debug\fundamentos.exe.config
