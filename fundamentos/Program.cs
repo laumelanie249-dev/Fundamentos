@@ -10,7 +10,7 @@ namespace fundamentos
     {
         static void Main(string[] args)
         {
-            ejer4();
+            ejer5();
             Console.ReadKey();
         }
 
@@ -66,7 +66,15 @@ namespace fundamentos
 
         static void ejer5()
         {
+            Console.Write("Ingrese un número: ");
+            string num = Console.ReadLine();
 
+            int entero = int.Parse(num);
+            double deci = double.Parse(num);
+
+            Console.WriteLine("Resto: " + (entero % 2));
+            Console.WriteLine("Decimal: "+(deci / 3));
+            Console.ReadKey();
         }
 
         static void ejer6()
