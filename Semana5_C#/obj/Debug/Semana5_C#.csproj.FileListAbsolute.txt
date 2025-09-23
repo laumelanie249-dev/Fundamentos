@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\semana6\Fundamentos\Semana5_C#\bin\Debug\Semana5_C#.exe.config
+C:\Users\UPN\Desktop\semana6\Fundamentos\Semana5_C#\bin\Debug\Semana5_C#.exe
+C:\Users\UPN\Desktop\semana6\Fundamentos\Semana5_C#\bin\Debug\Semana5_C#.pdb
+C:\Users\UPN\Desktop\semana6\Fundamentos\Semana5_C#\obj\Debug\Semana5_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\semana6\Fundamentos\Semana5_C#\obj\Debug\Semana5_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\semana6\Fundamentos\Semana5_C#\obj\Debug\Semana5_C#.exe
+C:\Users\UPN\Desktop\semana6\Fundamentos\Semana5_C#\obj\Debug\Semana5_C#.pdb
+C:\Users\UPN\Desktop\semana6\Fundamentos\Semana5_C#\obj\Debug\Semana5_C#.exe.config
