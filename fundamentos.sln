@@ -15,6 +15,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana5_C#", "Semana5_C#\Se
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Semana6_PY", "Semana6_PY\Semana6_PY.pyproj", "{CE90722A-503D-4C92-95BD-35648B47FCCA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana6_C#", "Semana6_C#\Semana6_C#.csproj", "{3840DC4E-4015-4517-B942-7F0C97DB7B86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEMANA7_C#", "SEMANA7_C#\SEMANA7_C#.csproj", "{B76D87BB-AEC9-4DE2-B072-3E1366328524}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +45,14 @@ Global
 		{F690D289-60B8-4E88-AE16-F870A3308D52}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CE90722A-503D-4C92-95BD-35648B47FCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CE90722A-503D-4C92-95BD-35648B47FCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3840DC4E-4015-4517-B942-7F0C97DB7B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3840DC4E-4015-4517-B942-7F0C97DB7B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3840DC4E-4015-4517-B942-7F0C97DB7B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3840DC4E-4015-4517-B942-7F0C97DB7B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76D87BB-AEC9-4DE2-B072-3E1366328524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76D87BB-AEC9-4DE2-B072-3E1366328524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76D87BB-AEC9-4DE2-B072-3E1366328524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76D87BB-AEC9-4DE2-B072-3E1366328524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
