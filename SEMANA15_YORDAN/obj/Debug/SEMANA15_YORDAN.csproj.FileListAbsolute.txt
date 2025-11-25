@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\sem15-nrc\Fundamentos\SEMANA15_YORDAN\bin\Debug\SEMANA15_YORDAN.exe.config
+C:\Users\UPN\Desktop\sem15-nrc\Fundamentos\SEMANA15_YORDAN\bin\Debug\SEMANA15_YORDAN.exe
+C:\Users\UPN\Desktop\sem15-nrc\Fundamentos\SEMANA15_YORDAN\bin\Debug\SEMANA15_YORDAN.pdb
+C:\Users\UPN\Desktop\sem15-nrc\Fundamentos\SEMANA15_YORDAN\obj\Debug\SEMANA15_YORDAN.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\sem15-nrc\Fundamentos\SEMANA15_YORDAN\obj\Debug\SEMANA15_YORDAN.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\sem15-nrc\Fundamentos\SEMANA15_YORDAN\obj\Debug\SEMANA15_YORDAN.exe
+C:\Users\UPN\Desktop\sem15-nrc\Fundamentos\SEMANA15_YORDAN\obj\Debug\SEMANA15_YORDAN.pdb
+C:\Users\UPN\Desktop\sem15-nrc\Fundamentos\SEMANA15_YORDAN\obj\Debug\SEMANA15_YORDAN.exe.config
